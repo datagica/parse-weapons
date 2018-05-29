@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/datagica/parse-weapons.git"
+    "url": "https://github.com/datagica/parse-weapons.git"
   },
   "dependencies": {
     "@datagica/parse-entities": "^0.2.7"

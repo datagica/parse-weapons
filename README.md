@@ -9,6 +9,8 @@ Le HK G36, capable de tirer 750 balles à la minute et jusqu'à 500 mètres
 ```
 
 Output:
+
+```json
 [
   {
     "ngram": "HK G36",
