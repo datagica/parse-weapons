@@ -1,11 +1,17 @@
 # Parse Weapons
 
-*Extracts weapons from a text*
+If a weapon is missing you can create a pull request
+
+## Installation
+
+    $ npm i @datagica/parse-weapons
+
+## Usage
 
 Example:
 
-```
-Le HK G36, capable de tirer 750 balles à la minute et jusqu'à 500 mètres
+```javascript
+await parse('Le HK G36, capable de tirer 750 balles à la minute')
 ```
 
 Output:
