@@ -1,6 +1,6 @@
 # Parse Weapons
 
-If a weapon is missing you can create a pull request
+If a weapon, license or copyright is missing you can create a pull request
 
 ## Installation
 
